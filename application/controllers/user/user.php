@@ -38,7 +38,7 @@ class user extends CI_Controller{
 
     function logout(){
         $this->session->sess_destroy();
-        $url=base_url('user/user');
+        $url=base_url('home');
         redirect($url);
     }
 }

@@ -8,6 +8,7 @@
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css">
         <link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css" />
         <link rel="stylesheet" href="<?php echo base_url().'login/css/style.css'?>" />
+        <link rel="shorcut icon" type="text/css" href="<?php echo base_url().'assets/images/lemon2.png'?>">
     </head>
     <body>
         <!--hero section-->
@@ -33,7 +34,7 @@
                                             <input type="password" class="form-control" name="password" value="" placeholder="Enter password" required>
                                         </div>
                                     
-                                        <button type="submit" class="btn btn-primary float-right">Login</button>
+                                        <button type="submit" class="btn btn-warning float-right">Login</button>
                                     </form>
                                     <div class="clearfix"></div>
                                     <p class="content-divider center mt-4"><span>or</span></p>
@@ -46,7 +47,7 @@
                     <div class="clearfix"></div>
                     <div class="col-sm-12 mt-5 footer">
                         <p class="text-white small text-center">
-                            &copy; portal berita
+                            &copy; MINILEMON
                             
                         </p>
                     </div>

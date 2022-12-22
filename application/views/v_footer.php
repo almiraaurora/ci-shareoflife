@@ -37,7 +37,7 @@
 
 
 			<div class="col-md-12 fh5co-copyright text-center">
-				<p>&copy; 2018 by Hermanto</a>. All Rights Reserved.</p>
+				<p>&copy; 2018 by MINILEMON</a>. All Rights Reserved.</p>
 			</div>
 
 		</div>

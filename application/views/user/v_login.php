@@ -8,10 +8,11 @@
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css">
         <link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css" />
         <link rel="stylesheet" href="<?php echo base_url().'login/css/style.css'?>" />
+        <link rel="shorcut icon" type="text/css" href="<?php echo base_url().'assets/images/lemon2.png'?>">
     </head>
     <body>
         <!--hero section-->
-        <section class="hero">
+        <section class="hero bg-light">
             <div class="container">
                 <div class="row">
                     <div class="col-md-6 col-sm-8 mx-auto">
@@ -36,7 +37,7 @@
                                             <span class="custom-control-indicator"></span>
                                             <span class="custom-control-description text-white">Keep me logged in</span>
                                         </label>
-                                        <button type="submit" class="btn btn-primary float-right">Sign in</button>
+                                        <button type="submit" class="btn btn-warning float-right">Sign in</button>
                                     </form>
                                     <div class="clearfix"></div>
                                     <p class="content-divider center mt-4"><span>or</span></p>
@@ -51,7 +52,7 @@
                     <div class="clearfix"></div>
                     <div class="col-sm-12 mt-5 footer">
                         <p class="text-white small text-center">
-                            &copy; portal berita
+                            &copy; MINILEMON
                             
                         </p>
                     </div>

@@ -13,5 +13,9 @@ class Dashboard extends CI_Controller{
 			$this->load->view('admin/v_dashboard',$x);
 	
 	}
+	// function logout(){
+	// 	$this->session->sess_destroy();         
+	// 	redirect('v_home', 'refresh');
+	// }
 	
 }

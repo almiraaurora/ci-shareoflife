@@ -45,7 +45,7 @@
                                         <div class="form-group">
                                             <input type="password" class="form-control" name="confirm-password" value="" placeholder="Confirm password" required>
                                         </div>
-                                        <button type="submit" class="btn btn-primary btn-block">Create Account</button>
+                                        <button type="submit" class="btn btn-warning btn-block">Create Account</button>
                                     </form>
                                     <div class="clearfix"></div>
                                     <p class="content-divider center mt-4"><span>or</span></p>

@@ -37,7 +37,7 @@ class Administrator extends CI_Controller{
 
     function logout(){
         $this->session->sess_destroy();
-        $url=base_url('administrator');
+        $url=base_url('home');
         redirect($url);
     }
 }

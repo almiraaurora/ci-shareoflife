@@ -21,7 +21,7 @@
   <!-- Main Stylesheet File -->
   <link href="<?php echo base_url().'depan/css/style.css'?>" rel="stylesheet">
 
-  
+
 </head>
 
 <body>
@@ -31,7 +31,7 @@
   ============================-->
   <header id="header">
     <div class="container-fluid">
-      <!-- <div id="logo" class="pull-left">
+      <!-- <div id="logo" class="pull-left">-->
       	<!-- <a class="h5co"><img src="assets/minilemon.png" width="80px" height="80px"> </a> -->
   
     <!-- <h1>MINILEMON: SHARE OF LIFE</h1>
