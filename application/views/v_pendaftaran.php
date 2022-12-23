@@ -31,7 +31,7 @@
 
                                     <form method="post" action="<?php echo base_url().'pendaftaran/simpan_mhs'?>">
                                         <div class="form-group">
-                                            <input type="number" class="form-control" name="nim" value="" placeholder="Enter Nim" required>
+                                            <input type="number" class="form-control" name="nim" value="" placeholder="Enter Username" required>
                                         </div>
                                         <div class="form-group">
                                             <input type="text" class="form-control" name="nama" value="" placeholder="Enter Nama" required>

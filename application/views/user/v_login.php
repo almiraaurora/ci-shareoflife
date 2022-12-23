@@ -27,7 +27,7 @@
                                 <div class="mt-4">
                                     <form action="<?php echo base_url().'user/user/auth'?>" method="post">
                                         <div class="form-group">
-                                            <input type="number" class="form-control" name="nim" value="" placeholder="Masukan Nim" required>
+                                            <input type="number" class="form-control" name="nim" value="" placeholder="Masukan Username" required>
                                         </div>
                                         <div class="form-group">
                                             <input type="password" class="form-control" name="password" value="" placeholder="Enter password" required>

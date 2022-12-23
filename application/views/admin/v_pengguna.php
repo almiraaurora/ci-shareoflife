@@ -9,7 +9,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title> Pengguna</title>
+  <title> Admin</title>
   <!-- Tell the browser to be responsive to screen width -->
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
   <link rel="shorcut icon" type="text/css" href="<?php echo base_url().'assets/images/lemon2.png'?>">
@@ -45,13 +45,12 @@
     <!-- Content Header (Page header) -->
     <section class="content-header">
       <h1>
-        Data Pengguna
+        Data Admin
         <small></small>
       </h1>
       <ol class="breadcrumb">
         <li><a href="#"><i class="fa fa-dashboard"></i> Home</a></li>
-        <li><a href="#">Pengguna</a></li>
-        <li class="active">Data Pengguna</li>
+        <li class="active">Data Admin</li>
       </ol>
     </section>
 
@@ -133,7 +132,7 @@
     <div class="pull-right hidden-xs">
     
     </div>
-    <strong>Copyright &copy; 2018  By Hermanto </a>.</strong> All rights reserved.
+    <strong>Copyright &copy;  2022  By MINILEMON : Share of Life </a>.</strong> All rights reserved.
   </footer>
 
   
